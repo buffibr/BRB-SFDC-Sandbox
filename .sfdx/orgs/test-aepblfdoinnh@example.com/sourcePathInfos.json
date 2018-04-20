@@ -5,11 +5,11 @@
             "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app",
             "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1524172771000,
+            "modifiedTime": 1524184897000,
             "changeTime": 1524172771691,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -20,11 +20,11 @@
             "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main",
             "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1524172771000,
+            "modifiedTime": 1524184897000,
             "changeTime": 1524172771693,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -36,10 +36,10 @@
             "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 224,
-            "modifiedTime": 1524182298168,
-            "changeTime": 1524182298168,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+            "size": 288,
+            "modifiedTime": 1524185061563,
+            "changeTime": 1524185061563,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
@@ -47,14 +47,13 @@
         {
             "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1524172771000,
-            "changeTime": 1524172771696,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 96,
+            "modifiedTime": 1524184897000,
+            "changeTime": 1524184897764,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -62,14 +61,13 @@
         {
             "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1524179613000,
-            "changeTime": 1524179613707,
-            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "size": 384,
+            "modifiedTime": 1524184915000,
+            "changeTime": 1524184897760,
+            "contentHash": "8471ca53c5527435c371e61e8873e6720667a32e",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -218,40 +216,287 @@
     [
         "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/classes/HelloWorldTest.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/classes/HelloWorldTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1524182298169,
             "changeTime": 1524182298169,
-            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/classes/HelloWorldTest.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/classes/HelloWorldTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 117,
             "modifiedTime": 1524182298170,
             "changeTime": 1524182298170,
-            "contentHash": "cdbb76b41e3b7e33d765922bdd7248480b57599c"
+            "contentHash": "cdbb76b41e3b7e33d765922bdd7248480b57599c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/classes",
             "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1524184711000,
+            "changeTime": 1524184711882,
+            "contentHash": "eb75b379df1e3590f39547c1becc04933a144a73",
             "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1524182298170,
-            "changeTime": 1524182298170,
-            "contentHash": "df856d0f42fef803a7bbfddebb1a6022ab0291c2"
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "size": 427,
+            "modifiedTime": 1524184709138,
+            "changeTime": 1524184709138,
+            "contentHash": "4d06807a84baf12bace7f9d099fd00dc7404b937",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1524184539798,
+            "changeTime": 1524184540428,
+            "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1524184897000,
+            "changeTime": 1524184897765,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1524184767719,
+            "changeTime": 1524184768379,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 167,
+            "modifiedTime": 1524184815155,
+            "changeTime": 1524184815155,
+            "contentHash": "7e42858a5b70f2f7e5dbc67ce0ca4cadb5c6ff95",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1524184767717,
+            "changeTime": 1524184768363,
+            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 124,
+            "modifiedTime": 1524184894495,
+            "changeTime": 1524184894495,
+            "contentHash": "dee62c03006f39beafd97e25261ddc038ec1b0c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1524184767719,
+            "changeTime": 1524184768381,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1524184767718,
+            "changeTime": 1524184768375,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1524184767717,
+            "changeTime": 1524184768366,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1524184767717,
+            "changeTime": 1524184768369,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1524184767718,
+            "changeTime": 1524184768373,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1524185061561,
+            "changeTime": 1524185061567,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5140,
+            "modifiedTime": 1524185061564,
+            "changeTime": 1524185061571,
+            "contentHash": "3351563c9d74af8db6b6945f2b66462bed5d25f1"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4804,
+            "modifiedTime": 1524185061568,
+            "changeTime": 1524185061568,
+            "contentHash": "aa616c6db8ee613d2000bd07c01fd2da238fa94b"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4800,
+            "modifiedTime": 1524185061570,
+            "changeTime": 1524185061588,
+            "contentHash": "22a1ebbf13205a41b53ba1c2e8cc1d27c9be4557"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17842,
+            "modifiedTime": 1524185061590,
+            "changeTime": 1524185061590,
+            "contentHash": "1c87e1fa7cae5cecc81f5f0897d943d38c8f2022"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524185061561,
+            "changeTime": 1524185061561,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brianbuffington/Documents/Workspace/geolocation/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1524185061590,
+            "changeTime": 1524185061590,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
